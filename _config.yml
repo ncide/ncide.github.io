@@ -9,10 +9,10 @@ version: 2
 name: Eric Kaiko
 title: Service and Help Desk Technical Support
 email: erickaiko@gmail.com
-website: www.linkedin.com/in/eric-kai/
+website: behance.net/HAARP
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -35,10 +35,6 @@ additional_links:
 - title: Telegram
   icon: fab fa-telegram
   url: t.me/ncide
-additional_links:
-- title: Behance
-  icon: fab fa-behance
-  url: behance.net/HAARP
 # - title: Telegram
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
