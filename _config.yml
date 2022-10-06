@@ -99,6 +99,14 @@ content:
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
+  - title: Bazzinga
+    layout: list
+    content:
+      -layout: left
+      title: Bazzinganator
+      link: bazzinaga.net
+      sub_title: Bazzzzzzzzzzzzzzzzinga
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
