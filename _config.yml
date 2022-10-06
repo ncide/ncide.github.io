@@ -196,7 +196,8 @@ content:
     layout: list
     content:
       - layout: left
-      title: learn.epam.com
+      title: EPAM
+      link: learn.epam.com
       caption: July 2022 - Present
       sub_title: DevOps Fundamentals
       description: |
