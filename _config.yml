@@ -180,10 +180,11 @@ content:
       - Gaming
       - Photography
       - Progressive and Classic Rock Music
+      
   - title: Course
     layout: list
     content:
-      -layout: left
+      - layout: left
       title: Allied Testing
       link: www.alliedtesting.com
       caption: January 2015 - February 2015
@@ -195,7 +196,7 @@ content:
     layout: list
     content:
       - layout: left
-      title: Learn epam.com
+      title: learn.epam.com
       caption: July 2022 - Present
       sub_title: DevOps Fundamentals
       description: |
