@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-#H1 Hi my names's Eric, 31 years old, was born and lived my whole life in Minsk, Belarus. Relocated to Poland since April 2022, because I don't support the aggressive tone of Belarusian government. I was afraid of possible reprisals that could follow due to the fact that my political views were completely opposite to the dictatorial regime.
-#H1 PC user since 1999, yep I was only 8y.o when I first installed Win98, because I wasn't enjoying Win95 that much.
-#H1 2007 When I was 17, me and my friend managed to build 60+ PC local lan network and it was operating for almost 2 years flawlessly before new law came out that banned local networks in multi apartment buildings. At that same time I had my own server with Mu Online, Korean Diablo-inspired MMORPG.
+| Hi my names's Eric, 31 years old, was born and lived my whole life in Minsk, Belarus. Relocated to Poland since April 2022, because I don't support the aggressive tone of Belarusian government. I was afraid of possible reprisals that could follow due to the fact that my political views were completely opposite to the dictatorial regime.
+| PC user since 1999, yep I was only 8y.o when I first installed Win98, because I wasn't enjoying Win95 that much.
+| 2007 When I was 17, me and my friend managed to build 60+ PC local lan network and it was operating for almost 2 years flawlessly before new law came out that banned local networks in multi apartment buildings. At that same time I had my own server with Mu Online, Korean Diablo-inspired MMORPG.
 I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
