@@ -114,7 +114,7 @@ content:
         sub_title: Wedding Photographer
         caption: October 2015 - Novemver 2018
         description: |
-            Taking hight-quality wedding photographs both film and digitil.
+            Taking hight-quality wedding photographs both film and digital.
             
   - title: 
     layout: list
@@ -124,7 +124,9 @@ content:
         sub_title: Fashion and Portrait Photographer
         caption: Dec 2018 - December 2019
         description: |
-            Taking pictures of model tests, Editorial stories for magazines.
+            Taking pictures of model tests.
+            
+            Editorial stories for magazines.
             
   - title: 
     layout: list
@@ -150,35 +152,38 @@ content:
         sub_title: Fashion Photographer
         caption: January 2022 - April 2022
         description: |
-            Full-time lookbook and e-commerce photography. Product photography.
+            Full-time lookbook and e-commerce photography.
+            
+            Product photography.
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Minsk Institute of Management (Minsk Innovation University)
+        caption: 2009 - 2013
+        sub_title: Finance and Credit
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The University was founded in 1991. Its founder is Nikolay Vasilyevich Susha, Grand PhD in Economics, Professor, who is also the permanent rector of the University. During those and subsequent years all conditions for training highly qualified specialists in the fields of economics, law, psychology, foreign languages and information technologies were created in the University.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Harvard I learnt lots of social and softskills that have I have taken through my career such as teamwork and working to tight deadlines.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time doing in-depth researches on the topics I was interested the most.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in networks and new technologies (I was always quick with trying new software and it's new fantastic features) some of my other interests and hobbies are:
+      - Marathon Cycling
+      - Hiking
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Photography
+      - Progressive and Classic Rock Music
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Some of my photographs on Behance 
+      ![photographs](https://www.behance.net/HAARP "photographs")
 
-  - title: Bazzinga
+  - title:
     layout: list
     content:
       -layout: left
