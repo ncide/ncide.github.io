@@ -179,8 +179,13 @@ content:
       - Hiking
       - Gaming
       - Photography
-      - Progressive and Classic Rock Music   
-      
+      - Progressive and Classic Rock Music
+     
+  - title: Courses
+    layout: text
+    content: |
+        Alied Testing Manual and Automated Software Testing (ofline) January 2015 - March 2015
+        Epam DevOps Fundamentals July 2022 - Present
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
