@@ -82,7 +82,7 @@ content:
         # link_text: www.hit-trade.by
         sub_title: Project Manager
         caption: February 2013 - June 2014
-        description:
+        description: |
             Collaborated with other team members to create fresh brand ideas and project initiatives.
             
             Selecting and inspecting product samples from manufacture, that is going to get into mass production.
@@ -92,6 +92,65 @@ content:
             Testing and suggesting changes into hardware part of the products.
             
             Setting up customer support and warranty environment.
+            
+   - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: MOVIE PARK
+        link: www.movieparkpro.com
+        # link_text: www.movieparkpro.com
+        sub_title: Second Assistant Camera, Videographer
+        caption: June 2014 - October 2015
+        description: |
+            Second Camera operator, shooting wedding footages and other events involving large groups of people festivals, parades etc.
+            Video editing and postprocessing, colorcorrection.
+            
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Freelance
+        sub_title: Wedding Photographer
+        caption: October 2015 - Novemver 2018
+        description: |
+            Taking hight-quality wedding photographs both film and digitil.
+            
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        tittle: Freelance
+        sub_title: Fashion and Portrait Photographer
+        caption: Dec 2018 - December 2019
+        description: |
+            Taking pictures of model tests, Editorial stories for magazines.
+            
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Nikofirm
+        link: nikofirm.by
+        # link_text: www.movieparkpro.com
+        sub_title: Fashion Photographer
+        caption: February 2020 - February 2021
+        description: |
+            Shooting lookbooks and editorials for company products.
+            
+            Product photography.
+            
+            You can even see me for a brief moment on their intro video on their webpage.
+            
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Shoes Group
+        sub_title: Fashion Photographer
+        caption: January 2022 - April 2022
+        description: |
+            Full-time lookbook and e-commerce photography. Product photography.
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
