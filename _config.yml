@@ -179,30 +179,8 @@ content:
       - Hiking
       - Gaming
       - Photography
-      - Progressive and Classic Rock Music
+      - Progressive and Classic Rock Music   
       
-  - title: Course
-    layout: list
-    content:
-      - layout: left
-      title: Allied Testing
-      link: www.alliedtesting.com
-      caption: January 2015 - February 2015
-      sub_title: Software Testing Basic Course
-      description: |
-       Two Levels Course: MANUAL + ADVANCED AUTOMATION
-       
-  - title:
-    layout: list
-    content:
-      - layout: left
-      title: EPAM
-      link: learn.epam.com
-      caption: July 2022 - Present
-      sub_title: DevOps Fundamentals
-      description: |
-        DevOps is a philosophy and culture of software development. DevOps specialists are among the most demanded in the international IT market. And the demand for them continues to grow. DevOps engineers accompany the product at all stages of the life cycle, automate and accelerate development processes, increasing its efficiency and safety.
-        
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
