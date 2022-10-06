@@ -31,10 +31,10 @@ linkedin_username: eric-kai
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
+- title: Telegram
+  icon: fas fa-telegram
+  url: t.me/ncide
+# - title: Telegram
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
@@ -114,7 +114,7 @@ content:
         sub_title: Wedding Photographer
         caption: October 2015 - Novemver 2018
         description: |
-            Taking hight-quality wedding photographs both film and digital.
+            Taking high quality wedding photographs both film and digital.
             
   - title: 
     layout: list
