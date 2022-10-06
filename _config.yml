@@ -34,6 +34,10 @@ additional_links:
 - title: Telegram
   icon: fab fa-telegram
   url: t.me/ncide
+additional_links:
+- title: Behance
+  icon: fab fa-behance
+  url: behance.net/HAARP
 # - title: Telegram
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
