@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: ncide/ncide.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -12,7 +12,7 @@ email: erickaiko@gmai.com
 website: www.linkedin.com/in/eric-kai/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
