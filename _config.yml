@@ -72,22 +72,8 @@ content:
             Helped with content migration from the old community hub to a new one.
             Updating <mark>Confluence</mark> knowledge databases to help other support members resolve known issues.
             Creating support guides for support newcomers.
-
-content:
-  - title: Wargaming2
-        link: wargaming.net
-        # link_text: wargaming.net
-        sub_title: Technical and later Financial Support Specialist
-        caption: April 2011 - October 2012
-        quote: >
-          Let's Battle
-        description: | # this will include new lines to allow paragraphs
-            Worked as a productive and positive team member to test, report, support resolution of in-game technical and financial issues of a clients.
-            Helped with content migration from the old community hub to a new one.
-            Updating <mark>Confluence</mark> knowledge databases to help other support members resolve known issues.
-            Creating support guides for support newcomers.
-
-- title: Education # Title for the section
+ 
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
