@@ -72,7 +72,23 @@ content:
             Helped with content migration from the old community hub to a new one.
             Updating <mark>Confluence</mark> knowledge databases to help other support members resolve known issues.
             Creating support guides for support newcomers.
- 
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Starway Tablets
+        link: www.hit-trade.by
+        # link_text: www.hit-trade.by
+        sub_title: Project Manager
+        caption: February 2013 - June 2014
+        description:
+            Collaborated with other team members to create fresh brand ideas and project initiatives.
+            Selecting and inspecting product samples from manufacture, that is going to get into mass production.
+            Active interaction with programmers to make changes in products firmware and UI
+            Testing and suggesting changes into hardware part of the products.
+            Setting up customer support and warranty environment.
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
