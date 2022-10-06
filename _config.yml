@@ -32,7 +32,7 @@ linkedin_username: eric-kai
 # Additional icon links
 additional_links:
 - title: Telegram
-  icon: fas fa-brands fa-telegram
+  icon: fab fa-telegram
   url: t.me/ncide
 # - title: Telegram
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
