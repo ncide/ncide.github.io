@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   PC user since 1999, yep I was only 8y.o when I first installed Win98, because I wasn't enjoying Win95 that much.
 
-  2007 When I was 17, me and my friend managed to build 60+ PC local lan network and it was operating for almost 2 years flawlessly before new law came out that banned local networks in multi apartment buildings. At that same time I had my own server with Mu Online, Korean Diablo-inspired MMORPG.
+  2007 When I was 17, me and my friend managed to build 60+ PC local lan <mark>network</mark> and it was operating for almost 2 years flawlessly before new law came out that banned local networks in multi apartment buildings. At that same time I had my own <mark>server</mark> with Mu Online, Korean Diablo-inspired MMORPG.
   I am most skilled in: <mark>TroubleShooting</mark> and <mark>Windows Administration</mark>
 
 content:
@@ -70,10 +70,24 @@ content:
         description: | # this will include new lines to allow paragraphs
             Worked as a productive and positive team member to test, report, support resolution of in-game technical and financial issues of a clients.
             Helped with content migration from the old community hub to a new one.
-            Updating Confluence knowledge databases to help other support members resolve known issues.
+            Updating <mark>Confluence</mark> knowledge databases to help other support members resolve known issues.
+            Creating support guides for support newcomers.
+    content:
+      - layout: left
+        title: Wargaming2
+        link: wargaming.net
+        # link_text: wargaming.net
+        sub_title: Technical and later Financial Support Specialist
+        caption: April 2011 - October 2012
+        quote: >
+          Let's Battle
+        description: | # this will include new lines to allow paragraphs
+            Worked as a productive and positive team member to test, report, support resolution of in-game technical and financial issues of a clients.
+            Helped with content migration from the old community hub to a new one.
+            Updating <mark>Confluence</mark> knowledge databases to help other support members resolve known issues.
             Creating support guides for support newcomers.
 
-  - title: Education # Title for the section
+- title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
